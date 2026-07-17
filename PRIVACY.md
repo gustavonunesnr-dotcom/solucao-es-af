@@ -28,7 +28,7 @@ A extensão não solicita nenhuma permissão especial do Chrome (sem acesso a `s
 
 ## Contato
 
-Dúvidas sobre esta política: [preencher e-mail ou link do GitHub Issues]
+Dúvidas sobre esta política: francisco.mesquita@axoware.com.br
 
 ## Aviso importante
 
