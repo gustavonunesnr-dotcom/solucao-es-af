@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Solução ES-AF",
+  "version": "1.0.0",
+  "description": "Extensão não-oficial (sem vínculo com o Ministério da Saúde) que resolve problemas comuns do e-SUS AF: gera notas de distribuição, recibos de dispensação e relatórios de estoque/movimentação prontos pra impressão, com layout completo.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://esusaf.ifpb.edu.br/transaction/expenses/expensesData/*",
+        "https://esusaf.ifpb.edu.br/transaction/requests/attend/details/*",
+        "https://esusaf.ifpb.edu.br/dispensation/dispensation-data/*",
+        "https://esusaf.ifpb.edu.br/reports/stock-position/stock-position-data*",
+        "https://esusaf.ifpb.edu.br/reports/movements/print*"
+      ],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

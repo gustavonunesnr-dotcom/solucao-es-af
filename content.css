@@ -1,0 +1,13 @@
+.esusaf-gerar-nota-btn {
+  opacity: 1;
+  min-width: 100px;
+  white-space: nowrap;
+  margin-right: 8px;
+  background-color: #1a7f37;
+  border-color: #1a7f37;
+}
+
+.esusaf-gerar-nota-btn:hover {
+  background-color: #146129;
+  border-color: #146129;
+}
