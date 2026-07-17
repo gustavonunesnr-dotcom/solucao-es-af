@@ -28,8 +28,7 @@ A extensão não solicita nenhuma permissão especial do Chrome (sem acesso a `s
 
 ## Contato
 
-Dúvidas sobre esta política: francisco.mesquita@axoware.com.br
-
+Dúvidas sobre esta política: luis.mesquita@axoware.com.br
 ## Aviso importante
 
 Esta extensão é um projeto independente e não possui vínculo com o Ministério da Saúde, o e-SUS, o IFPB ou qualquer órgão governamental. Use por sua conta e risco; sempre confira os dados gerados antes de usar oficialmente.
